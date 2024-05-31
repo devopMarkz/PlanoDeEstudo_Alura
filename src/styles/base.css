@@ -8,6 +8,7 @@
 
 body {
     font-family: "Poppins", sans-serif;
+    background-color: var(--background-main);
 }
 
 a {
@@ -19,4 +20,15 @@ ul{
     list-style-type: none;
     margin: 0;
     padding: 0;
+}
+
+:root {
+    --cor-principal: white;
+    --cor-secundaria: #976A84;
+
+    --background-header_navegacao: #0B182C;
+    --background-main_plano-de-estudo: #4C4C4C;
+    --background-main_titulo: #383838;
+    --background-main: #F9FBFD;
+    --background-main_cursos: #FDFEFF;
 }
