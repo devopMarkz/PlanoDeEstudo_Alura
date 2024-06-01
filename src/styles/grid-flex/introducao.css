@@ -1,0 +1,15 @@
+.formacao__introducao {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+    padding: 50px 30px;
+}
+
+.formacao__introducao p {
+    width: 80%;
+}
+
+.format-intro {
+    font-weight: bold;
+}

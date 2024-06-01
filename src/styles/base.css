@@ -25,7 +25,7 @@ ul{
 
 :root {
     --cor-principal: white;
-    --cor-secundaria: #976A84;
+    --cor-secundaria: #776a84;
 
     --background-header_navegacao: #0B182C;
     --background-main_plano-de-estudo: #4C4C4C;
@@ -44,4 +44,9 @@ ul{
 
 .apresentacao__header {
     background-color: var(--background-main_plano-de-estudo);
+}
+
+.formacao__introducao, .formacao__cursos {
+    color: var(--cor-secundaria);
+    font-size: 0.9rem;
 }
