@@ -25,7 +25,7 @@
     }
 
     .rodape__menu {
-        flex-direction: column;
+        flex-wrap: wrap;
         align-items: start;
         gap: 2rem;
     }
