@@ -7,6 +7,11 @@
         display: none;
     }
 
+    .menu {
+        height: 120px;
+        padding: 0 20px;
+    }
+
     .list__navigation {
         flex-wrap: wrap;
         justify-content: center;
@@ -20,8 +25,13 @@
         font-size: 1.5rem;
     }
 
+    .formacao__cursos {
+        width: 90%;
+    }
+
     .lista-cursos {
         grid-area: 2 / 1 / 3 / 3;
+        font-size: .8rem;
     }
 
     .rodape__menu {
