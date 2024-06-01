@@ -1,0 +1,32 @@
+@media only screen and (max-width: 1000px) {
+    .menu__logo,
+     .menu__profile,
+      .list__navigation li .navigation-link img,
+      .rodape__logo,
+      .rodape__links {
+        display: none;
+    }
+
+    .list__navigation {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .apresentacao__header h2 {
+        font-size: 1rem;
+    }
+
+    .apresentacao__titulo h1 {
+        font-size: 1.5rem;
+    }
+
+    .lista-cursos {
+        grid-area: 2 / 1 / 3 / 3;
+    }
+
+    .rodape__menu {
+        flex-direction: column;
+        align-items: start;
+        gap: 2rem;
+    }
+}
