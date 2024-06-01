@@ -7,6 +7,7 @@
 }
 
 body {
+    color: var(--cor-principal);
     font-family: "Poppins", sans-serif;
     background-color: var(--background-main);
 }
@@ -31,4 +32,8 @@ ul{
     --background-main_titulo: #383838;
     --background-main: #F9FBFD;
     --background-main_cursos: #FDFEFF;
+}
+
+.menu {
+    background-color: var(--background-header_navegacao);
 }
