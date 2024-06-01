@@ -1,0 +1,28 @@
+.rodape {
+    width: 80%;
+    margin: 10rem auto 0 auto;
+    border-top: solid rgba(103, 103, 103, 0.1) 1px;
+    padding: 2rem 0;
+    display: flex;
+    gap: 5rem;
+    justify-content: center;
+    white-space: nowrap;
+}
+
+.rodape__menu {
+    display: flex;
+    gap: 5rem;
+    font-size: .8rem;
+    white-space: nowrap;
+}
+
+.rodape__links {
+    display: flex;
+    gap: 5rem;
+    font-size: .8rem;
+    white-space: nowrap;
+}
+
+.rodape__links img {
+    border-radius: 100%;
+}
