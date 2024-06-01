@@ -37,3 +37,11 @@ ul{
 .menu {
     background-color: var(--background-header_navegacao);
 }
+
+.formacao__apresentacao {
+    background-color: var(--background-main_titulo);
+}
+
+.apresentacao__header {
+    background-color: var(--background-main_plano-de-estudo);
+}
