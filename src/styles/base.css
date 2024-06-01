@@ -50,3 +50,8 @@ ul{
     color: var(--cor-secundaria);
     font-size: 0.9rem;
 }
+
+.formacao__cursos {
+    background-color: var(--background-main_cursos);
+    box-shadow: -1px -1px rgba(0, 0, 0, 0.1);
+}
